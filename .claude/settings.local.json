@@ -3,7 +3,8 @@
     "allow": [
       "Bash(find:*)",
       "Bash(which plantuml:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(grep:*)"
     ]
   }
 }
